@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "android": {
-      "package": "com.univalle.bookshelf",
+      "package": "com.univalle.bookshelf_grupo1",
       "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "backgroundColor": "#a73b5c",
