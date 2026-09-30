@@ -20,7 +20,6 @@ export function Header({ title, onBack }: Props) {
         </View>
       )}
       <Text style={s.topbarTitle}>{title}</Text>
-      {/* espacio para mantener el título centrado */}
       <View style={{ width: 34 }} />
     </View>
   );
