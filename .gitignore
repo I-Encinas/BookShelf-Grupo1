@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+dist/
+web-build/
+android/
+ios/
+*.apk
+*.aab
+.env
+google-services.json
+GoogleService-Info.plist
+*.log
+.DS_Store
